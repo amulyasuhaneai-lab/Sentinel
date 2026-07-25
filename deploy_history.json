@@ -1,0 +1,37 @@
+[
+  {
+    "deploy_id": 44,
+    "timestamp": "2026-07-20T09:12:00Z",
+    "author": "priya.s",
+    "commit_message": "Add loyalty points calculation to checkout flow",
+    "files_changed": ["checkout/service.py", "checkout/loyalty.py"]
+  },
+  {
+    "deploy_id": 45,
+    "timestamp": "2026-07-21T14:03:00Z",
+    "author": "arjun.k",
+    "commit_message": "Fix flaky test in payment retry logic",
+    "files_changed": ["tests/test_payment_retry.py"]
+  },
+  {
+    "deploy_id": 46,
+    "timestamp": "2026-07-22T11:47:00Z",
+    "author": "priya.s",
+    "commit_message": "Bump logging verbosity for checkout debugging",
+    "files_changed": ["checkout/logging_config.py"]
+  },
+  {
+    "deploy_id": 47,
+    "timestamp": "2026-07-23T15:05:00Z",
+    "author": "devops-bot",
+    "commit_message": "Update infra config: reduce DB connection pool size from 20 to 3 as part of cost-optimization pass (JIRA-1182)",
+    "files_changed": ["infra/db_pool_config.yaml"]
+  },
+  {
+    "deploy_id": 48,
+    "timestamp": "2026-07-24T08:30:00Z",
+    "author": "arjun.k",
+    "commit_message": "Add new /checkout/gift-wrap endpoint",
+    "files_changed": ["checkout/service.py", "checkout/gift_wrap.py"]
+  }
+]

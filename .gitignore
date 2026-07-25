@@ -1,0 +1,13 @@
+# Local machine config — contains real API keys, never commit
+claude_desktop_config.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# OS
+.DS_Store
