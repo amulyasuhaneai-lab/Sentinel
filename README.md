@@ -174,4 +174,4 @@ real engineering decisions made under time constraints, not just the final answe
 
 ---
 
-*Built by [team names] for WeMakeDevs x SigNoz, Track 01.*
+*Built by Amulya Suhane for WeMakeDevs x SigNoz, Track 01.*
