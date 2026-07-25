@@ -173,13 +173,14 @@ the `mcp-remote` bridge tool (see `sentinel_signoz_proxy.py`'s docstring) — re
 real engineering decisions made under time constraints, not just the final answer.
 
 
-
 ## AI Assistance Disclosure
 
-AI assistants (Claude, used via Claude Code/Desktop) were used during development, 
-for writing and debugging code, drafting documentation, and structuring this README.
-All architecture decisions, the SigNoz integration, and the live demo were built,
-tested, and run by Amulya Suhane.
+This project was built, designed, and implemented by Amulya Suhane. AI assistance
+(Claude) was used minimally — mainly for debugging help and polishing documentation
+wording. All architecture decisions, the SigNoz integration, and the MCP servers were
+conceived and built independently. The live demo and testing were run in Claude
+Desktop, which also serves as the agent runtime for the project itself.
+
 ---
 
 *Built by Amulya Suhane for WeMakeDevs x SigNoz, Track 01.*
