@@ -172,6 +172,14 @@ because the debugging trail — including a real bug we found and worked around 
 the `mcp-remote` bridge tool (see `sentinel_signoz_proxy.py`'s docstring) — reflects
 real engineering decisions made under time constraints, not just the final answer.
 
+
+
+## AI Assistance Disclosure
+
+AI assistants (Claude, used via Claude Code/Desktop) were used during development, 
+for writing and debugging code, drafting documentation, and structuring this README.
+All architecture decisions, the SigNoz integration, and the live demo were built,
+tested, and run by Amulya Suhane.
 ---
 
 *Built by Amulya Suhane for WeMakeDevs x SigNoz, Track 01.*
